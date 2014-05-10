@@ -33,7 +33,7 @@ Now you can see what the plugin is doing and if it is working properly.
 
 # Related
 
-To find out how to configute serveradmin, please read the documentation provided by the Teamspeak developers.
+To find out how to configure serveradmin, please read the documentation provided by the Teamspeak developers.
 
 # Contribution
 
