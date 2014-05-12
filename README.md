@@ -21,11 +21,11 @@ You will have to set the password in the conf file.
 
 # Debugging
 
-In this plugin there is a command line implementation of collectd python package which allows calling via command line.
+In this plugin is a command line implementation of collectd python package which allows calling via command line.
 
 	python collectd_ts3.py
 
-You will have to set the password in the pythin script
+You will have to set the password in the python script
 
 	PASSWORD = 'your_serveradmin_password'
 
